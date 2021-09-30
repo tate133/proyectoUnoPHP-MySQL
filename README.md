@@ -1,6 +1,8 @@
 # proyectoUnoPHP-MySQL
 Códigos del primer proyecto realizado en el Master PHP y SQL de Udemy.
 
+VIDEO EXPLICATIVO YOUTUBE = https://youtu.be/z4yl7AM3tT0 ////
+
 Blog de videojuegos: Aquí podemos encontrar distintas categorías de videos juegos, donde están los nombres de los juegos con su descripción.
 Tiene un apartado de registro de usuario y login de usuarios que ya se han registrado con anterioridad. Éste registro posee restricciones 
 para poder identificarte de manera correcta (nombre válido, apellido válido, correo válido). El login de usuarios también cuenta con alarmas que informan sobre datos mal ingreados.
